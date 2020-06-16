@@ -26,46 +26,46 @@ BST_Program.exe
 ```
 **Pastikan Capslock menyala saat memulai program**
 Tampilan awal program menampilkan menu navigasi
-![](Screenshoot/Awal.png)
+![](ScreenShoot/Awal.png)
 
 Untuk menginput data secara otomatis pilih opsi menu 'A'
-![](Screenshoot/A.png)
+![](ScreenShoot/A.png)
 
 Kalau ingin menginput data secara manual, pilih opsi menu 'B' dengan menginput data bertipe integer
-![](Screenshoot/B.png)
+![](ScreenShoot/B.png)
 
 Untuk mencetak hasil penelusuran tree secara Pre-Order, pilih opsi menu 'C'
-![](Screenshoot/C.png)
+![](ScreenShoot/C.png)
 
 Untuk mencetak hasil penelusuran tree secara In-Order, pilih opsi menu 'D'
-![](Screenshoot/D.png)
+![](ScreenShoot/D.png)
 
 Untuk mencetak hasil penelusuran tree secara Post-Order, pilih opsi menu 'E'
-![](Screenshoot/E.png)
+![](ScreenShoot/E.png)
 
 Untuk menghapus data pada tree, pilih opis menu 'F'. Lalu masukkan data yang ingin dihapus. Jika data ditemukan, maka data akan hapus. Jika tidak, maka tidak ada penghapusan.
-![](Screenshoot/F.png)
+![](ScreenShoot/F.png)
 
 Untuk mencari suatu bilangan pada tree, pilih opsi menu 'G'. Lalu masukkan data yang ingin dicari. Jika data ditemukan, maka akan tercetak "DATA DITEMUKAN". Jika tidak, maka akan tercetak "DATA TIDAK DITEMUKAN". Dan akan tercetak simpul/node mana saja yang terlewati ketika pencarian dilakukan.
-![](Screenshoot/G.png)
+![](ScreenShoot/G.png)
 
 Jika kita mau tahu berapa simpul/node yang ada pada tree, pilih opsi menu 'H'
-![](Screenshoot/H.png)
+![](ScreenShoot/H.png)
 
 Jika kita mau tahu bahwa tree yang kita buat atau yang otomatis dibuat memiliki berapa tingkatan/level(kedalaman), pilih opsi menu 'I'
-![](Screenshoot/I.png)
+![](ScreenShoot/I.png)
 
 Jika kita ingin me*reset*/ mengosongkan isi dari tree, pilih opsi menu 'J'
-![](Screenshoot/J.png)
+![](ScreenShoot/J.png)
 
 Jika kita ingin menampilkan nilai terbesar, pilih opsi menu 'K'
-![](Screenshoot/K.png)
+![](ScreenShoot/K.png)
 
 Jika kita ingin menampilkan nilai terkecil, pilih opsi menu 'L'
-![](Screenshoot/L.png)
+![](ScreenShoot/L.png)
 
 Jika suda selesai, kita bisa menutup program dengan opsi menu 'X'
-![](Screenshoot/X.png)
+![](ScreenShoot/X.png)
 
 
 
