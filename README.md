@@ -53,6 +53,7 @@ Jika kita mau tahu berapa simpul/node yang ada pada tree, pilih opsi menu 'H'
 ![](ScreenShoot/H.png)
 
 Jika kita mau tahu bahwa tree yang kita buat atau yang otomatis dibuat memiliki berapa tingkatan/level(kedalaman), pilih opsi menu 'I'
+
 ![](ScreenShoot/I.png)
 
 Jika kita ingin me*reset*/ mengosongkan isi dari tree, pilih opsi menu 'J'
